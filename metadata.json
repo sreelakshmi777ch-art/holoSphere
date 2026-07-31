@@ -1,0 +1,6 @@
+{
+  "name": "HoloSphere AI",
+  "description": "Gesture Controlled 3D Holographic Workspace with Three.js, MediaPipe, Web Speech API, and Gemini AI",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
